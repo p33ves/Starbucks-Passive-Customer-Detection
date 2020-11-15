@@ -13,4 +13,4 @@ profiledf = profiledf[
 ]
 profiledf.rename(columns={'id': 'person'}, inplace=True)
 
-profiledf.to_csv(r'../cleaned_profile.csv')
+profiledf.to_csv(r'../data/cleaned_profile.csv')
