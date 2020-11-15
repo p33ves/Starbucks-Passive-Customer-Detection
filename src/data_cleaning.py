@@ -13,4 +13,7 @@ profiledf = profiledf[
 ]
 profiledf.rename(columns={'id': 'person'}, inplace=True)
 
+portfoliodf.rename(columns={'id': 'offer_id'}, inplace=True)
+
 profiledf.to_csv(r'../data/cleaned_profile.csv')
+portfoliodf.to_csv(r'../data/cleaned_portfolio.csv')
