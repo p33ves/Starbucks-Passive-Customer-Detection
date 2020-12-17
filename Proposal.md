@@ -10,12 +10,5 @@ Passive customer is one of the biggest challenges for any organization. A passiv
 ### Dataset: 
 -	Starbucks rewards data - https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-data
 
-## Optional functionalities:
-
-- Personalize offers depending on the type of customers
-- Clustering to find combos of food or drinks that can be used as a package for promotion
-- Additional dataset containing customer survey 
-
-### Dataset:
--	Starbucks menu - https://www.kaggle.com/starbucks/starbucks-menu?select=starbucks-menu-nutrition-drinks.csv
--	Customer survey - https://www.kaggle.com/mahirahmzh/starbucks-customer-retention-malaysia-survey?select=Starbucks+satisfactory+survey.csv
+## Optional use case:
+- Clustering customers depending on their type of preferred offer
